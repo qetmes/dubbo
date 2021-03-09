@@ -1,0 +1,3 @@
+com\guo\dubbo\model\User.class
+com\guo\dubbo\service\impl\UserServiceImpl.class
+com\guo\dubbo\service\UserService.class
